@@ -1,5 +1,5 @@
-# sms_spymer
-SMS Spymer  
+# sms_spamer
+SMS Spamer  
 
 
 spamer.py - main script (run with "python spamer.py 123" 123 - number of phone)
